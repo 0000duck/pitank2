@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: game_engine
+Description: Description of game_engine
+Version: 0.1.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: message_runtime

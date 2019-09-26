@@ -1,0 +1,17 @@
+(cl:defpackage game_engine-msg
+  (:use )
+  (:export
+   "<ROBOTDESCRIPTION>"
+   "ROBOTDESCRIPTION"
+   "<ROBOTDESCRIPTIONARRAY>"
+   "ROBOTDESCRIPTIONARRAY"
+   "<SHOOTANDTURBO>"
+   "SHOOTANDTURBO"
+   "<UISTATE>"
+   "UISTATE"
+   "<WALLINFO>"
+   "WALLINFO"
+   "<WALLINFOARRAY>"
+   "WALLINFOARRAY"
+  ))
+
